@@ -1,5 +1,5 @@
-# Bioarxiv COVID19
-repository about bioarxiv COVID19 analysis
+# CORD19 analyses
+repository about articles related to coronaviruses, using data from the CROD19 Kaggle challenge.
 
 # Description of the data file 
 Datafile 'CORD19_Geo_info.csv'
