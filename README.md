@@ -1,4 +1,4 @@
-# COVID-19 Open Research analysis
+# COVID-19 Open Research Dataset (CORD19) analysis
 repository about articles related to coronaviruses, using data from the CROD19 Kaggle challenge.
 
 # Description of the data file 
