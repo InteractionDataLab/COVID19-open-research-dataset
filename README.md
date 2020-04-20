@@ -29,7 +29,7 @@ P1_id , Title_of_P1 , a1;a2;a3 , I1;I2;I3 , postcode1;postcode2;postcode3 , c1;c
 
 Note - Each authors name is as follows = first_middle_last
 
-## Researh Questions
+## Research Questions
 
 1. Perform some basic network analysis on the CORD19 dataset provided by kaggle 
 (Link to dataset - https://www.google.com/url?q=https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge&sa=D&source=hangouts&ust=1586857198871000&usg=AFQjCNGetfltrYHXAgGPK2d67a_mlkP03Q)
